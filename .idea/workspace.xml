@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="038ccb4f-2965-4d57-8c29-0e33fe3dbd80" name="Default" comment="" />
+    <list default="true" id="038ccb4f-2965-4d57-8c29-0e33fe3dbd80" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/jackson/boot/BootApplicationTests.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jackson/boot/JacksonMain.java" afterPath="$PROJECT_DIR$/src/main/java/com/jackson/boot/JacksonMain.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,9 +23,11 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-              <folding />
+            <state relative-caret-position="166">
+              <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <marker date="1536202049998" expanded="true" signature="2496:2508" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -26,11 +35,11 @@
       <file leaf-file-name="JacksonMain.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jackson/boot/JacksonMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
+                <marker date="1536202049996" expanded="true" signature="486:495" ph=" { " />
+                <marker date="1536202049996" expanded="true" signature="517:523" ph=" }" />
               </folding>
             </state>
           </provider>
@@ -614,12 +623,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536139580743</updated>
       <workItem from="1536139583762" duration="4392000" />
-      <workItem from="1536201796210" duration="203000" />
+      <workItem from="1536201796210" duration="269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4595000" />
+    <option name="totallyTimeSpent" value="4661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -677,7 +686,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="41" selection-end-column="25" />
-          <folding />
+          <folding>
+            <marker date="1536202049998" expanded="true" signature="2496:2508" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -694,8 +705,8 @@
         <state relative-caret-position="210">
           <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
+            <marker date="1536202049996" expanded="true" signature="486:495" ph=" { " />
+            <marker date="1536202049996" expanded="true" signature="517:523" ph=" }" />
           </folding>
         </state>
       </provider>
@@ -711,19 +722,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="166">
+          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <marker date="1536202049998" expanded="true" signature="2496:2508" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jackson/boot/JacksonMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
+            <marker date="1536202049996" expanded="true" signature="486:495" ph=" { " />
+            <marker date="1536202049996" expanded="true" signature="517:523" ph=" }" />
           </folding>
         </state>
       </provider>

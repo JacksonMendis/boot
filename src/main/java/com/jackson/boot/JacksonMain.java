@@ -10,7 +10,9 @@ import org.springframework.web.bind.annotation.RestController;
 @EnableAutoConfiguration
 public class JacksonMain {
     @RequestMapping("/")
+
     public String home() {
+
         return "Hello World!";
     }
 

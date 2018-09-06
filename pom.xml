@@ -19,9 +19,15 @@
     </parent>
 
     <properties>
+<<<<<<< HEAD
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
+=======
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    <java.version>1.8</java.version>
+>>>>>>> 1efff0417a393c43053ccf337fc4495f4edba712
     </properties>
 
     <dependencies>
@@ -35,6 +41,7 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
+<<<<<<< HEAD
         <!--<dependency>-->
             <!--<groupId>org.springframework.boot</groupId>-->
             <!--<artifactId>spring-boot-starter-test</artifactId>-->
@@ -49,6 +56,22 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+=======
+        <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-test</artifactId>
+        <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+    <plugins>
+    <plugin>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-maven-plugin</artifactId>
+    </plugin>
+    </plugins>
+>>>>>>> 1efff0417a393c43053ccf337fc4495f4edba712
     </build>
 
 
